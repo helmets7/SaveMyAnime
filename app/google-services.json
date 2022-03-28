@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258988815881",
+    "project_id": "savemyanime-8a0a0",
+    "storage_bucket": "savemyanime-8a0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258988815881:android:b3807e5649d2010c676ad8",
+        "android_client_info": {
+          "package_name": "com.example.savemyanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258988815881-pomrc8qj0bvlp5p9ioihm909dv50si8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7dXI3x9ixz5o69wmsupuRa3PgKezzsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258988815881-pomrc8qj0bvlp5p9ioihm909dv50si8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
